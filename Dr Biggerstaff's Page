@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Kevin Biggerstaff, PharmD, RPh</title>
+        <style>
+            body {
+                background-color: #00529B;
+                color: #FFD700;
+                font-family: Arial, sans-serif;
+            }
+            h1, h2 {
+                text-align: center;
+            }
+            #about, #contact {
+                width: 80%;
+                margin: auto;
+                padding: 20px;
+                background-color: #FFFFFF;
+                color: #000000;
+                margin-bottom: 20px;
+                border-radius: 10px;
+            }
+            .container {
+                max-width: 800px;
+                margin: auto;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Kevin Biggerstaff, PharmD, RPh</h1>
+            <h2>CTE/ Health Science Teacher</h2>
+            <div id="about">
+                <h2>About Me</h2>
+                <p>I have been a pharmacist since 2011 and started teaching health science in 2022. Currently, I teach at Samuel Clemens High School with a focus on pharmacy technician training. Apart from my career, I am a proud father of two girls, aged 12 and 10, and a loving owner of two dogs.</p>
+            </div>
+            <div id="contact">
+                <h2>Contact Information</h2>
+                <p>Phone: 210-945-6501</p>
+                <p>Email: <a href="mailto:kbiggerstaff@scuc.txed.net">kbiggerstaff@scuc.txed.net</a></p>
+            </div>
+        </div>
+    </body>
+</html>
